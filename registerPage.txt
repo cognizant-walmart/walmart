@@ -1,0 +1,3 @@
+WebdriverManager.chromedriver.setup();
+WebDriver d= new ChromeDriver();
+d.get("");
