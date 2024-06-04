@@ -1,0 +1,12 @@
+public class login {
+public static void logintobrowser(){
+
+Webdrivermanager.chromedriver.setup()
+WebDriver driver = new ChromeDriver()
+driver.get("https/www.google.com")
+driver.manage().window().maximize().
+}
+login x = new login();
+logintobrowser;
+}
+
