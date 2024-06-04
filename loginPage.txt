@@ -1,3 +1,4 @@
 WebDriver d = new ChromeDriver();
 d.get("");
 d.window().maximize();
+Thread.sleep();
